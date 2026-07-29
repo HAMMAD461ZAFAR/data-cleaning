@@ -1,0 +1,19 @@
+order_id,customer_name,email,product,category,quantity,price,order_date,city,payment_method,total_amount
+1001,John Smith,john.smith@email.com,Wireless Mouse,Electronics,2.0,19.99,2024-01-15,New York,Credit Card,39.98
+1002,jane doe,jane.doe@email.com,USB Cable,Electronics,1.0,9.99,2024-01-16,Los Angeles,PayPal,9.99
+1003,Mike Johnson,mike.j@email.com,Laptop Stand,Electronics,2.0,29.99,2024-01-17,Chicago,Credit Card,59.98
+1004,Sarah Williams,sarah.w@email.com,Bluetooth Speaker,Electronics,3.0,24.99,2024-01-15,New York,Debit Card,74.97
+1006,David Brown,david.brown@email.com,Office Chair,Furniture,1.0,149.99,2024-01-18,Houston,PayPal,149.99
+1007,Emily Davis,unknown@email.com,Desk Lamp,Furniture,2.0,24.99,2024-01-19,Phoenix,Credit Card,49.98
+1008,Chris Wilson,chris.w@email.com,Notebook,Stationery,5.0,3.99,2024-01-20,Unknown,Cash,19.950000000000003
+1009,Anna Taylor,anna.taylor@email.com,Pen Set,Stationery,10.0,5.99,2024-01-21,Philadelphia,Credit Card,59.900000000000006
+1010,Robert Miller,robert.m@email.com,Monitor,Electronics,1.0,199.99,2024-01-22,San Antonio,Debit Card,199.99
+1011,Lisa Anderson,lisa.a@email.com,Keyboard,Electronics,2.0,49.99,2024-01-23,San Diego,PayPal,99.98
+1013,Kevin Thomas,kevin.t@email.com,Water Bottle,Accessories,4.0,12.5,,Dallas,Cash,50.0
+1014,Michelle Lee,michelle.l@email.com,Backpack,Accessories,1.0,45.0,2024-01-25,San Jose,Credit Card,45.0
+1015,James White,james.w@email.com,Unknown,Furniture,2.0,89.99,2024-01-26,Austin,PayPal,179.98
+1016,Patricia Harris,patricia.h@email.com,Desk,Furniture,1.0,120.0,2024-01-27,Jacksonville,Debit Card,120.0
+1017,Unknown,unknown@email.com,Charger,Electronics,3.0,14.99,2024-01-28,Fort Worth,Credit Card,44.97
+1018,Daniel Martin,daniel.m@email.com,Charger,Electronics,3.0,14.99,2024-01-28,Fort Worth,Credit Card,44.97
+1019,Susan Garcia,susan.g@email.com,Monitor Stand,Furniture,2.0,34.99,,Columbus,PayPal,69.98
+1020,Joseph Rodriguez,joseph.r@email.com,Mouse Pad,Accessories,6.0,6.99,2024-01-30,Charlotte,Cash,41.94
